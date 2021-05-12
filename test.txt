@@ -1,3 +1,7 @@
 new file
 this is file 1
+<<<<<<< HEAD
 this is file 2 from local
+=======
+this if file 2
+>>>>>>> 2af13923840a4df4eae418fef8ef7b642c1e7186
